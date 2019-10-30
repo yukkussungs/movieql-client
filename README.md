@@ -1,4 +1,4 @@
-## This project was bootstrapped with Create React App.
+## Client for the MovieQL API build with Apollo
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
